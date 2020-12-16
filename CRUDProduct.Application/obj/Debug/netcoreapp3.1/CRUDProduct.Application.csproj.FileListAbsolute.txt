@@ -1,0 +1,14 @@
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\bin\Debug\netcoreapp3.1\CRUDProduct.Application.deps.json
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\bin\Debug\netcoreapp3.1\CRUDProduct.Application.dll
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\bin\Debug\netcoreapp3.1\CRUDProduct.Application.pdb
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\bin\Debug\netcoreapp3.1\CRUDProduct.Domain.Core.dll
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\bin\Debug\netcoreapp3.1\CRUDProduct.Domain.dll
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\bin\Debug\netcoreapp3.1\CRUDProduct.Domain.Core.pdb
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\bin\Debug\netcoreapp3.1\CRUDProduct.Domain.pdb
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\obj\Debug\netcoreapp3.1\CRUDProduct.Application.csprojAssemblyReference.cache
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\obj\Debug\netcoreapp3.1\CRUDProduct.Application.AssemblyInfoInputs.cache
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\obj\Debug\netcoreapp3.1\CRUDProduct.Application.AssemblyInfo.cs
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\obj\Debug\netcoreapp3.1\CRUDProduct.Application.csproj.CoreCompileInputs.cache
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\obj\Debug\netcoreapp3.1\CRUDProduct.Application.csproj.CopyComplete
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\obj\Debug\netcoreapp3.1\CRUDProduct.Application.dll
+C:\Users\ajpereira\source\repos\CRUDProduct\CRUDProduct.Application\obj\Debug\netcoreapp3.1\CRUDProduct.Application.pdb
